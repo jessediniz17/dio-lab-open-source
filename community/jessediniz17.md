@@ -15,7 +15,7 @@ Me chamo Jessé. Sou técnico em informática para internet. Já tive experiênc
 ## Habilidades
 
 [![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=0E76A8)]() [![SQL](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql&logoColor=ffffff)]() 
-[![jupyternotebook](https://img.shields.io/badge/jupyter notebook-000?style=for-the-badge&logo=jupyter&logoColor=f5a511)]() 
+[![jupyternotebook](https://img.shields.io/badge/jupyter%20notebook-000?style=for-the-badge&logo=jupyter&logoColor=f5a511)]() 
 
 [![Excel](https://img.shields.io/badge/excel-000?style=for-the-badge&logo=microsoftexcel&logoColor=2aad30)]() [![PowerBI](https://img.shields.io/badge/powerbi-000?style=for-the-badge&logo=powerbi&logoColor=)]()
 
@@ -25,7 +25,7 @@ Me chamo Jessé. Sou técnico em informática para internet. Já tive experiênc
 
  [![git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git&logoColor=)]() [![GitHub](https://img.shields.io/badge/gitHub-000?style=for-the-badge&logo=github&logoColor=ffffff)]()
 
- [![tensorflow](https://img.shields.io/badge/Tensor Flow-000?style=for-the-badge&logo=tensorflow&logoColor=ffffff)]()
+ [![tensorflow](https://img.shields.io/badge/Tensor%20Flow-000?style=for-the-badge&logo=tensorflow&logoColor=ffffff)]()
  [![Azure](https://img.shields.io/badge/azure-000?style=for-the-badge&logo=microsoftazure&logoColor=0E76A8)]()
 
 
